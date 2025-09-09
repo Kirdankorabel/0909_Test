@@ -6640,7 +6640,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   obstaclePrefab: {fileID: 1387282070002201622, guid: 81fdec22687d3ea488b88c7daeaed60f,
     type: 3}
-  obstacleCount: 400
+  obstacleCount: 700
   areaMin: {x: -16, y: 0.5, z: -16}
   areaMax: {x: 16, y: 0.5, z: 16}
   centerClearRadius: 7.5
@@ -6886,8 +6886,8 @@ LineRenderer:
       m_RotationOrder: 4
     colorGradient:
       serializedVersion: 2
-      key0: {r: 1, g: 0.3254902, b: 0, a: 0}
-      key1: {r: 1, g: 0.3254902, b: 0, a: 1}
+      key0: {r: 1, g: 0.3254902, b: 0.38039216, a: 0.5372549}
+      key1: {r: 1, g: 0.3254902, b: 0.38039216, a: 1}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
@@ -6903,7 +6903,7 @@ LineRenderer:
       ctime6: 0
       ctime7: 0
       atime0: 0
-      atime1: 29375
+      atime1: 28142
       atime2: 0
       atime3: 0
       atime4: 0

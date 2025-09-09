@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: GameSettings
   m_EditorClassIdentifier: 
   startSize: 2
-  minSize: 0.2
+  minSize: 0.4
   chargeRate: 0.5
   projectileSpeed: 10
   explosionMultiplier: 1
